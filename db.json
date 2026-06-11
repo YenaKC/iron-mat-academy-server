@@ -4,49 +4,65 @@
             "id": 1,
             "name": "Coach Alex",
             "belt": "Black Belt",
-            "specialty": "Leg Locks"
+            "specialty": "Leg Locks",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 2,
             "name": "Coach Maya",
             "belt": "Brown Belt",
-            "specialty": "Back Control"
+            "specialty": "Back Control",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 3,
             "name": "Coach Leo",
             "belt": "Purple Belt",
-            "specialty": "Guard Passing"
+            "specialty": "Guard Passing",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 4,
             "name": "Coach Nina",
             "belt": "Black Belt",
-            "specialty": "Chokes"
+            "specialty": "Chokes",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 5,
             "name": "Coach Minji",
             "belt": "Purple Belt",
-            "specialty": "Guard Retention"
+            "specialty": "Guard Retention",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 6,
             "name": "Coach Haruto",
             "belt": "Brown Belt",
-            "specialty": "Sweeps"
+            "specialty": "Sweeps",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 7,
             "name": "Coach Rafael",
             "belt": "Black Belt",
-            "specialty": "Pressure Passing"
+            "specialty": "Pressure Passing",
+            "drawingImage": "",
+            "photoImage": ""
         },
         {
             "id": 8,
             "name": "Coach Raul",
             "belt": "Purple Belt",
-            "specialty": "Escape"
+            "specialty": "Escape",
+            "drawingImage": "",
+            "photoImage": ""
         }
     ],
     "classes": [
