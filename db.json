@@ -1,27 +1,28 @@
 {
-    "coaches": [
-        {
-            "id": 1,
-            "name": "Coach Alex",
-            "belt": "Black Belt",
-            "specialty": "Leg Locks"
-        }
-    ],
-    "classes": [
-        {
-            "id": 1,
-            "title": "No-Gi Fundamentals",
-            "day": "Monday",
-            "coachId": 1,
-            "techniqueIds": [1]
-        }
-    ],
-    "techniques": [
-        {
-            "id": 1,
-            "name": "Heel Hook",
-            "category": "Leg Lock",
-            "level": "Advanced"
-        }
-    ]
+  "coaches": [
+    {
+      "id": 1,
+      "name": "Coach Alex",
+      "belt": "Black Belt",
+      "specialty": "Leg Locks"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "title": "No-Gi Fundamentals",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "level": "All Levels",
+      "coach": "Coach Alex"
+    }
+  ],
+  "techniques": [
+    {
+      "id": 1,
+      "name": "Heel Hook",
+      "category": "Leg Lock",
+      "level": "Advanced"
+    }
+  ]
 }
