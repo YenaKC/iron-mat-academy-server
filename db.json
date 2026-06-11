@@ -5,6 +5,48 @@
             "name": "Coach Alex",
             "belt": "Black Belt",
             "specialty": "Leg Locks"
+        },
+        {
+            "id": 2,
+            "name": "Coach Maya",
+            "belt": "Brown Belt",
+            "specialty": "Back Control"
+        },
+        {
+            "id": 3,
+            "name": "Coach Leo",
+            "belt": "Purple Belt",
+            "specialty": "Guard Passing"
+        },
+        {
+            "id": 4,
+            "name": "Coach Nina",
+            "belt": "Black Belt",
+            "specialty": "Chokes"
+        },
+        {
+            "id": 5,
+            "name": "Coach Minji",
+            "belt": "Purple Belt",
+            "specialty": "Guard Retention"
+        },
+        {
+            "id": 5,
+            "name": "Coach Haruto",
+            "belt": "Brown Belt",
+            "specialty": "Sweeps"
+        },
+        {
+            "id": 7,
+            "name": "Coach Rafael",
+            "belt": "Black Belt",
+            "specialty": "Pressure Passing"
+        },
+        {
+            "id": 8,
+            "name": "Coach Raul",
+            "belt": "Purple Belt",
+            "specialty": "Escape"
         }
     ],
     "classes": [
@@ -12,9 +54,81 @@
             "id": 1,
             "title": "No-Gi Fundamentals",
             "day": "Monday",
-            "time": "19:00 - 20:30",
-            "level": "All Levels",
+            "time": "18:00 - 19:00",
+            "level": "Beginner",
             "coach": "Coach Alex"
+        },
+        {
+            "id": 2,
+            "title": "No-Gi Fundamentals",
+            "day": "Tuesday",
+            "time": "18:00 - 19:00",
+            "level": "Beginner",
+            "coach": "Coach Raul"
+        },
+        {
+            "id": 3,
+            "title": "No-Gi Fundamentals",
+            "day": "Wednesday",
+            "time": "18:00 - 19:00",
+            "level": "Beginner",
+            "coach": "Coach Haruto"
+        },
+        {
+            "id": 4,
+            "title": "No-Gi Fundamentals",
+            "day": "Thursday",
+            "time": "18:00 - 19:00",
+            "level": "Beginner",
+            "coach": "Coach Minji"
+        },
+        {
+            "id": 5,
+            "title": "No-Gi Fundamentals",
+            "day": "Friday",
+            "time": "18:00 - 19:00",
+            "level": "Beginner",
+            "coach": "Coach Leo"
+        },
+        {
+            "id": 6,
+            "title": "Submission Chains",
+            "day": "Tuesday",
+            "time": "19:15 - 20:30",
+            "level": "Intermediate",
+            "coach": "Coach Maya"
+        },
+        {
+            "id": 7,
+            "title": "Guard Passing",
+            "day": "Wednesday",
+            "time": "19:15 - 20:30",
+            "level": "All Levels",
+            "coach": "Coach Rafael"
+        },
+        {
+            "id": 8,
+            "title": "Guard Retention",
+            "day": "Thursday",
+            "time": "19:15 - 20:30",
+            "level": "All Levels",
+            "coach": "Coach Minji"
+        },
+        {
+            "id": 9,
+            "title": "Choke Attacks",
+            "day": "Friday",
+            "time": "19:15 - 20:30",
+            "level": "Intermediate",
+            "coach": "Coach Nina"
+        },
+        {
+            "id": 10,
+            "title": "Open Mat",
+            "day": "Saturday",
+            "time": "11:00 - 13:00",
+            "level": "All Levels",
+            "coach": "All Coaches"
         }
     ],
     "techniques": [
