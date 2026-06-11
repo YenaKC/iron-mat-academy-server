@@ -83,7 +83,7 @@
         },
         {
             "id": 8,
-            "name": "Guillontine Choke",
+            "name": "Guillotine Choke",
             "category": "Choke",
             "position": "Front Headlock",
             "level": "Beginner",
@@ -96,7 +96,7 @@
             "category": "Choke",
             "position": "Back Control",
             "level": "Advanced",
-            "description": "Powerful gi choke from the back.",
+            "description": "Powerful choke variation from back control.",
             "youtubeUrl": "https://youtu.be/bBk02m4QF5c?si=EneFZs91MbpBafVo"
         },
         {
@@ -147,7 +147,7 @@
         {
             "id": 15,
             "name": "Shrimp Escape",
-            "category": "Choke",
+            "category": "Escape",
             "position": "Side Control Bottom",
             "level": "Beginner",
             "description": "Fundamental hip movement escape.",
