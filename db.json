@@ -1,28 +1,157 @@
 {
-  "coaches": [
-    {
-      "id": 1,
-      "name": "Coach Alex",
-      "belt": "Black Belt",
-      "specialty": "Leg Locks"
-    }
-  ],
-  "classes": [
-    {
-      "id": 1,
-      "title": "No-Gi Fundamentals",
-      "day": "Monday",
-      "time": "19:00 - 20:30",
-      "level": "All Levels",
-      "coach": "Coach Alex"
-    }
-  ],
-  "techniques": [
-    {
-      "id": 1,
-      "name": "Heel Hook",
-      "category": "Leg Lock",
-      "level": "Advanced"
-    }
-  ]
+    "coaches": [
+        {
+            "id": 1,
+            "name": "Coach Alex",
+            "belt": "Black Belt",
+            "specialty": "Leg Locks"
+        }
+    ],
+    "classes": [
+        {
+            "id": 1,
+            "title": "No-Gi Fundamentals",
+            "day": "Monday",
+            "time": "19:00 - 20:30",
+            "level": "All Levels",
+            "coach": "Coach Alex"
+        }
+    ],
+    "techniques": [
+        {
+            "id": 1,
+            "name": "Heel Hook",
+            "category": "Leg Lock",
+            "position": "Multiple",
+            "level": "Advanced",
+            "description": "",
+            "youtubeUrl": "https://youtu.be/hNTsYUShvLU?si=3vnTeCF4T4tRSFaW"
+        },
+        {
+            "id": 2,
+            "name": "Kimura",
+            "category": "Shoulder Lock",
+            "position": "Side Control",
+            "level": "Intermediate",
+            "description": "Powerful shoulder lock using figure-four grip.",
+            "youtubeUrl": "https://youtu.be/wSeJt3CEo-s?si=qBNjxxsLdctkbfh_"
+        },
+        {
+            "id": 3,
+            "name": "Armbar",
+            "category": "Joint Lock",
+            "position": "Mount",
+            "level": "Beginner",
+            "description": "Classic arm lock attacking the elbow.",
+            "youtubeUrl": "https://youtu.be/iUap4TaYVQc?si=U6na-x1jXvbEsgfG"
+        },
+        {
+            "id": 4,
+            "name": "Rear Naked Choke",
+            "category": "Choke",
+            "position": "Back Control",
+            "level": "Beginner",
+            "description": "High percentage submission from the back.",
+            "youtubeUrl": "https://youtu.be/KW2RvtWgBxU?si=3JPku9tM22d55Sco"
+        },
+        {
+            "id": 5,
+            "name": "Triangle Choke",
+            "category": "Choke",
+            "position": "Guard",
+            "level": "Intermediate",
+            "description": "Leg-based choke from guard.",
+            "youtubeUrl": "https://youtu.be/9pjdpFCr4UI?si=sY6UPSL5l1mqOeVx"
+        },
+        {
+            "id": 6,
+            "name": "Straight Ankle Lock",
+            "category": "Leg Lock",
+            "position": "Ashi Garami",
+            "level": "Beginner",
+            "description": "Basic foot lock attacking the ankle joint.",
+            "youtubeUrl": "https://youtu.be/5ZAqUQpsus8?si=rU66D6foDucw8uFz"
+        },
+        {
+            "id": 7,
+            "name": "Kneebar",
+            "category": "Leg Lock",
+            "position": "Top Position",
+            "level": "Advanced",
+            "description": "Submission attacking the knee joint.",
+            "youtubeUrl": "https://youtu.be/oBlMI4iKm3c?si=E9ToO8qP996eSCc8"
+        },
+        {
+            "id": 8,
+            "name": "Guillontine Choke",
+            "category": "Choke",
+            "position": "Front Headlock",
+            "level": "Beginner",
+            "description": "Popular choke attack from standing or guard.",
+            "youtubeUrl": "https://youtu.be/zmoyANCY4To?si=jLsmKEOY39uxQQgL"
+        },
+        {
+            "id": 9,
+            "name": "Bow and Arrow Choke",
+            "category": "Choke",
+            "position": "Back Control",
+            "level": "Advanced",
+            "description": "Powerful gi choke from the back.",
+            "youtubeUrl": "https://youtu.be/bBk02m4QF5c?si=EneFZs91MbpBafVo"
+        },
+        {
+            "id": 10,
+            "name": "Americana",
+            "category": "Joint Lock",
+            "position": "Side Control",
+            "level": "Beginner",
+            "description": "Shoulder lock using a figure-four grip.",
+            "youtubeUrl": "https://youtu.be/_XjAAnIBlhA?si=vfm-p4juGq48_9Ts"
+        },
+        {
+            "id": 11,
+            "name": "Omoplata",
+            "category": "Joint Lock",
+            "position": "Guard",
+            "level": "Intermediate",
+            "description": "Shoulder lock using the legs.",
+            "youtubeUrl": "https://youtu.be/LVy4tGv5Fk4?si=GRgodl6SOpumlu-3"
+        },
+        {
+            "id": 12,
+            "name": "Scissor Sweep",
+            "category": "Sweep",
+            "position": "Closed Guard",
+            "level": "Beginner",
+            "description": "Classic sweep from closed guard.",
+            "youtubeUrl": "https://youtu.be/XhAnICDjj98?si=iZDZK4-PjhhFj6F6"
+        },
+        {
+            "id": 13,
+            "name": "Flower Sweep",
+            "category": "Sweep",
+            "position": "Closed Guard",
+            "level": "Intermediate",
+            "description": "Sweep using momentum and leg control.",
+            "youtubeUrl": "https://youtu.be/qbeRRoFqIcQ?si=KmkneLPQYV5h4AG2"
+        },
+        {
+            "id": 14,
+            "name": "Bridge and Roll Escape",
+            "category": "Escape",
+            "position": "Mount Bottom",
+            "level": "Beginner",
+            "description": "Basic escape from mount position.",
+            "youtubeUrl": "https://youtu.be/qK2RBchWlFE?si=ktiV9Rfkb9qw28fh"
+        },
+        {
+            "id": 15,
+            "name": "Shrimp Escape",
+            "category": "Choke",
+            "position": "Side Control Bottom",
+            "level": "Beginner",
+            "description": "Fundamental hip movement escape.",
+            "youtubeUrl": "https://youtu.be/-lknz9IMxJw?si=kDZ8UCR6t4L6B1wM"
+        }
+    ]
 }
