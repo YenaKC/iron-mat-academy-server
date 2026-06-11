@@ -4,6 +4,7 @@
   "description": "Iron Mat Academy is a promotional website for a No-Gi Jiu-Jitsu academy. The app allows visitors to explore the academy, check the weekly class schedule, learn about the coachig team, and browse the techniques that will be covered during the week and explore the academy's growing technique database.",
   "main": "index.js",
   "scripts": {
+    "start": "json-server --watch db.json --host 0.0.0.0 --port SPORT",
     "dev": "json-server --watch db.json --port 5005"
   },
   "repository": {
