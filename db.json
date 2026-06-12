@@ -4,49 +4,49 @@
             "id": 1,
             "name": "Coach Alex",
             "belt": "Black Belt",
-            "specialty": "Leg Locks",
+            "specialty": "Leg Locks"
         },
         {
             "id": 2,
             "name": "Coach Maya",
             "belt": "Brown Belt",
-            "specialty": "Back Control",
+            "specialty": "Back Control"
         },
         {
             "id": 3,
             "name": "Coach Leo",
             "belt": "Purple Belt",
-            "specialty": "Guard Passing",
+            "specialty": "Guard Passing"
         },
         {
             "id": 4,
             "name": "Coach Nina",
             "belt": "Black Belt",
-            "specialty": "Chokes",
+            "specialty": "Chokes"
         },
         {
             "id": 5,
             "name": "Coach Minji",
             "belt": "Purple Belt",
-            "specialty": "Guard Retention",
+            "specialty": "Guard Retention"
         },
         {
             "id": 6,
             "name": "Coach Haruto",
             "belt": "Brown Belt",
-            "specialty": "Sweeps",
+            "specialty": "Sweeps"
         },
         {
             "id": 7,
             "name": "Coach Rafael",
             "belt": "Black Belt",
-            "specialty": "Pressure Passing",
+            "specialty": "Pressure Passing"
         },
         {
             "id": 8,
             "name": "Coach Raul",
             "belt": "Purple Belt",
-            "specialty": "Escape",
+            "specialty": "Escape"
         }
     ],
     "classes": [
