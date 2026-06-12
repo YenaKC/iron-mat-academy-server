@@ -179,4 +179,4 @@ To be added.
 ### Backend
 To be added.
 ### Project Status
-Planning stage.
+Completed for Ironhack Module 2 project presentation.
